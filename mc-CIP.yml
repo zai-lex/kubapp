@@ -8,5 +8,5 @@ spec:
       targetPort: vpromc-port
       protocol: TCP
   selector:
-    app: vpromcache01
+    app: vprocache01
   type: ClusterIP
